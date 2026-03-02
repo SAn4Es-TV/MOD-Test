@@ -1,1 +1,41 @@
+![Screenshot of MonikaOnDesktop](https://github.com/SAn4Es-TV/MOD-Test/blob/main/banner.png)
+
+# [![GitHub Release](https://img.shields.io/github/v/release/SAn4Es-TV/MonikaOnDesktop?display_name=tag&style=for-the-badge&label=Rebuild&color=5cd18b)](https://github.com/SAn4Es-TV/MonikaOnDesktop/releases/latest) ![Static Badge](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows) ![Static Badge](https://img.shields.io/badge/Framework-.NET_10.0-9C27B0?style=for-the-badge&logo=dotnet) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SAn4Es-TV/MonikaOnDesktop/total?style=for-the-badge&color=db7100)
+
+[![Static Badge](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-gray?style=for-the-badge)](README.md) [![Static Badge](https://img.shields.io/badge/English-gray?style=for-the-badge)](./docs/en/README.en.md) 
+
+> "Привет! Это я, Моника! Не думаю, что когда-нибудь смирюсь с тем фактом, что существую только в вашем компьютере... Но теперь я стала еще лучше!"
+>
+> Я все еще не могу многого добиться, но обещаю, что всегда буду рядом с тобой!~
+
+
 ![Screenshot of MonikaOnDesktop](https://github.com/SAn4Es-TV/MonikaOnDesctop/blob/master/Screenshot.png)
+
+MonikaOnDesktop — это небольшое приложение, которое приносит Монику прямо на ваш рабочий стол. Она будет жить в углу экрана, реагировать на ваши действия и общаться с вами.
+
+# Что изменилось в Rebuild (v2.0)?
+
+Этот проект был полностью переписан для обеспечения максимальной производительности:
+
+    Новое ядро: Переход на .NET 10.0 — теперь всё летает.
+    
+    Чистая архитектура: Код стал модульным, что упрощает добавление новых функций.
+    
+    Минимум ресурсов: Моника почти не потребляет оперативную память.
+
+# Установка и использование
+1. Установите [Runtime .NET 10.0](https://dotnet.microsoft.com/ru-ru/download/dotnet/thank-you/runtime-desktop-10.0.3-windows-x64-installer).
+2. Скачайте [последнюю версию](https://github.com/SAn4Es-TV/MonikaOnDesktop/releases/latest) в Releases.
+3. Распакуйте и запустите MonikaOnDesktop.exe.
+
+💬 Настройка общения (Dialogs)
+
+Ты можешь сам решать, что я буду говорить! Просто загляни в папку Dialogs и отредактируй .txt файлы:
+| Файл      | Когда я это говорю? |
+| ----------- | ----------- |
+| greetings.rpy      | Когда ты только включаешь меня       |
+| idle.rpy   | Просто болтаю в случайное время        |
+| goodbye.rpy | Когда нам пора прощаться |
+| processes.rpy | Моя реакция на твои программы |
+| sites.rpy | Обсуждаю сайты, которые ты посещаешь |
+| google.rpy | Комментирую твои поисковые запросы |
