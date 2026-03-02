@@ -1,6 +1,6 @@
 ![Screenshot of MonikaOnDesktop](https://github.com/SAn4Es-TV/MOD-Test/blob/main/banner.png)
 
-# [![GitHub Release](https://img.shields.io/github/v/release/SAn4Es-TV/MonikaOnDesktop?display_name=tag&style=for-the-badge&label=Rebuild&color=5cd18b)](https://github.com/SAn4Es-TV/MonikaOnDesktop/releases/latest) ![Static Badge](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows) ![Static Badge](https://img.shields.io/badge/Framework-.NET_10.0-9C27B0?style=for-the-badge&logo=dotnet) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SAn4Es-TV/MonikaOnDesktop/total?style=for-the-badge&color=db7100)
+# [![GitHub Release](https://img.shields.io/github/v/release/SAn4Es-TV/MonikaOnDesktop?display_name=tag&style=for-the-badge&label=Rebuild&color=5cd18b)](https://github.com/SAn4Es-TV/MonikaOnDesktop/releases/latest) ![Static Badge](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows) ![Static Badge](https://img.shields.io/badge/Framework-.NET_10.0-9C27B0?style=for-the-badge) ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/SAn4Es-TV/MonikaOnDesktop/total?style=for-the-badge&color=db7100)
 
 [![Static Badge](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-gray?style=for-the-badge)](README.md) [![Static Badge](https://img.shields.io/badge/English-gray?style=for-the-badge)](./docs/en/README.en.md) 
 
