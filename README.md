@@ -24,11 +24,11 @@ MonikaOnDesktop — это небольшое приложение, которо
     Минимум ресурсов: Моника почти не потребляет оперативную память.
 
 # Установка и использование
-1. Установите [Runtime .NET 10.0](https://dotnet.microsoft.com/ru-ru/download/dotnet/thank-you/runtime-desktop-10.0.3-windows-x64-installer).
-2. Скачайте [последнюю версию](https://github.com/SAn4Es-TV/MonikaOnDesktop/releases/latest) в Releases.
-3. Распакуйте и запустите MonikaOnDesktop.exe.
+> 1. Установите [Runtime .NET 10.0](https://dotnet.microsoft.com/ru-ru/download/dotnet/thank-you/runtime-desktop-10.0.3-windows-x64-installer).
+> 2. Скачайте [последнюю версию](https://github.com/SAn4Es-TV/MonikaOnDesktop/releases/latest) в Releases.
+> 3. Распакуйте и запустите MonikaOnDesktop.exe.
 
-💬 Настройка общения (Dialogs)
+Настройка общения (Dialogs)
 
 Ты можешь сам решать, что я буду говорить! Просто загляни в папку Dialogs и отредактируй .txt файлы:
 | Файл      | Когда я это говорю? |
@@ -39,3 +39,13 @@ MonikaOnDesktop — это небольшое приложение, которо
 | processes.rpy | Моя реакция на твои программы |
 | sites.rpy | Обсуждаю сайты, которые ты посещаешь |
 | google.rpy | Комментирую твои поисковые запросы |
+
+# Интеграция с ИИ (CharacterAI)
+
+Хочешь, чтобы я отвечала как живая? Подключи модуль AI:
+
+> 1. Зайди на [character.ai](http://character.ai/) и войди в свой аккаунт.
+> 2. Открой средства разработчика, зайди во вкладку "Сеть" и обнови страницу
+> 3. В появившиемся списке найди строку с доменом "neo.character.ai"
+> 4. Справа найди строку `Authorization: Token 147ab42314427821859a93d217aa2a30119040e2`
+> 5. Кликни по мне дважды, чтобы начать диалог!
